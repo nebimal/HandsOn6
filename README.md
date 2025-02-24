@@ -33,4 +33,4 @@ T(n) = 2T(n/2) + O(n)
 a = 2  
 b = 2  
 d = 1  
-"O(nlogn)"  
+**O(nlogn)** 
